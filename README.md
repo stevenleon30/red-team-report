@@ -2,6 +2,8 @@
 
 Promptfoo-based red team evaluation for an AI customer support agent.
 
+Repository: https://github.com/stevenleon30/red-team-report
+
 This project tests a customer support system prompt against three attack categories:
 
 - Prompt injection
